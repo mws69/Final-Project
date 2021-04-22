@@ -1,7 +1,7 @@
 # Final-Project Group #2
 Group members and emails 
 Michael Harouse (mth57@pitt.edu)
-Michael Schafer (mws69@pitt.edu)
+Michael Schafer (  email here  )
 Griffin Jordan  (gpj4@pitt.edu)
 
 Datasets used
@@ -9,7 +9,7 @@ Fire incidents in City of Pittsburgh. Incidents of fire responded to by the Pitt
   
 Trees in Allegheny County - https://data.wprdc.org/dataset/city-trees
 
-Pittsburgh Police Arrest Data - https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+
 
 Abstract: A TLDR summary of the findings of the project. Answer to the question: 
 What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
