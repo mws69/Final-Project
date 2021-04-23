@@ -11,5 +11,4 @@ Trees in Allegheny County - https://data.wprdc.org/dataset/city-trees
 
 Pittsburgh Police Arrest Data - https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
-Abstract: A TLDR summary of the findings of the project. Answer to the question: 
-What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
+Abstract: After reviewing the information from all of our datasets, we determiend the best neighborhood in Pittsburgh is Regent Square. This decision was agreed upon because Regent Square had the least number of recorded fires, the least number of recorded crime, and had a lower number of trees. Regent Square borders Frick Park on the eastern side and is not very far away from campus.    
